@@ -10,5 +10,5 @@
         started the runners off.
         --
 
-        
-## lemmitazation and stemming words using teh porters steeming algorithms to remove stop words and punctionations
+
+## lemmatization and stemming words using the porters stemmer algorithms to remove stop words and punctionations
